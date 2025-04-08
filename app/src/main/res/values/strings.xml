@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NetworkApp</string>
+    <string name="show_comic">Show Comic</string>
 </resources>
